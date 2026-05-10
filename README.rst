@@ -61,7 +61,7 @@ Run Locally
 
 .. code-block:: bash
 
-    git clone <your-repo-url>
+    git clone https://github.com/jennica-z/inkflow.git
     cd repo
 
 2. Install dependencies:
